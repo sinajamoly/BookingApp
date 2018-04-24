@@ -6,6 +6,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_component.scss" afterPath="$PROJECT_DIR$/sass/_component.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_layout.scss" afterPath="$PROJECT_DIR$/sass/_layout.scss" />
     </list>
     <ignored path="node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.75021833">
+    <splitter split-orientation="horizontal" split-proportion="0.39344263">
       <split-first>
         <leaf>
           <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
@@ -54,8 +55,8 @@
           <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sass/_layout.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+                <state relative-caret-position="216">
+                  <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="53" />
                   <folding />
                 </state>
               </provider>
@@ -64,8 +65,8 @@
           <file leaf-file-name="_component.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sass/_component.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="395">
-                  <caret line="212" column="23" lean-forward="false" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
+                <state relative-caret-position="366">
+                  <caret line="253" column="23" lean-forward="false" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -88,8 +89,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1029">
-                  <caret line="124" column="63" lean-forward="false" selection-start-line="124" selection-start-column="63" selection-end-line="124" selection-end-column="63" />
+                <state relative-caret-position="474">
+                  <caret line="129" column="26" lean-forward="true" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="26" />
                   <folding>
                     <element signature="e#3895#3901#0" expanded="true" />
                   </folding>
@@ -139,7 +140,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1359" />
-    <option name="width" value="1205" />
+    <option name="width" value="1419" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -219,12 +220,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524526455417</updated>
-      <workItem from="1524526457643" duration="16754000" />
+      <workItem from="1524526457643" duration="18518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16754000" />
+    <option name="totallyTimeSpent" value="18518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,7 +237,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1359" y="0" width="1205" height="1047" extended-state="0" />
+    <frame x="1359" y="0" width="1419" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19884488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -248,7 +249,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.273326" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.273326" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -322,18 +323,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -350,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sass/_component.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="212" column="23" lean-forward="false" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
+        <state relative-caret-position="366">
+          <caret line="253" column="23" lean-forward="false" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
           <folding />
         </state>
       </provider>
