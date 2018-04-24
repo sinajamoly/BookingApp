@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29866694-cc29-4535-a426-5def8fc03f0b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_base.scss" afterPath="$PROJECT_DIR$/sass/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_layout.scss" afterPath="$PROJECT_DIR$/sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/_component.scss" afterPath="$PROJECT_DIR$/sass/_component.scss" />
     </list>
     <ignored path="node_modules/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8003697">
+    <splitter split-orientation="horizontal" split-proportion="0.48420155">
       <split-first>
         <leaf>
           <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
@@ -52,7 +49,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sass/_layout.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="326">
@@ -62,11 +59,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_component.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_component.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/sass/_component.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="366">
-                  <caret line="253" column="23" lean-forward="false" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
+                <state relative-caret-position="222">
+                  <caret line="352" column="22" lean-forward="false" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
                   <folding />
                 </state>
               </provider>
@@ -89,7 +86,7 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="258">
+                <state relative-caret-position="-102">
                   <caret line="136" column="28" lean-forward="false" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
                   <folding>
                     <element signature="e#3895#3901#0" expanded="true" />
@@ -111,10 +108,10 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/sass/main.scss" />
-        <option value="$PROJECT_DIR$/sass/_component.scss" />
         <option value="$PROJECT_DIR$/sass/_base.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sass/_layout.scss" />
+        <option value="$PROJECT_DIR$/sass/_component.scss" />
       </list>
     </option>
   </component>
@@ -140,7 +137,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="1359" />
-    <option name="width" value="1231" />
+    <option name="width" value="1177" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -220,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524526455417</updated>
-      <workItem from="1524526457643" duration="20444000" />
+      <workItem from="1524526457643" duration="22017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20444000" />
+    <option name="totallyTimeSpent" value="22017000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,7 +234,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1359" y="0" width="1231" height="1047" extended-state="0" />
+    <frame x="1359" y="0" width="1177" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19884488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -323,14 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/_component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="253" column="23" lean-forward="false" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -353,6 +342,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
           <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="352" column="22" lean-forward="false" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
           <folding />
         </state>
       </provider>
